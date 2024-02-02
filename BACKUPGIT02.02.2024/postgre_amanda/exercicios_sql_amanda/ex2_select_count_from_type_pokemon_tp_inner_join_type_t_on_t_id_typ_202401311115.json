@@ -1,0 +1,6 @@
+{
+"select count(*) from type_pokemon tp \r\ninner join \"type\" t \r\non t.id_type = tp.id_type \r\nwhere description_type = 'fire' \r\n": [
+	{
+		"count" : 12
+	}
+]}

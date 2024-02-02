@@ -1,0 +1,165 @@
+{
+"select name_pokemon , id_pokemon , weight , height \r\nfrom entity_pokemon_full epf \r\nwhere weight > 30 \r\nand height >1.5": [
+	{
+		"name_pokemon" : "venusaur",
+		"id_pokemon" : 3,
+		"weight" : 100.0,
+		"height" : 2.0
+	},
+	{
+		"name_pokemon" : "charizard",
+		"id_pokemon" : 6,
+		"weight" : 90.5,
+		"height" : 1.7
+	},
+	{
+		"name_pokemon" : "blastoise",
+		"id_pokemon" : 9,
+		"weight" : 85.5,
+		"height" : 1.6
+	},
+	{
+		"name_pokemon" : "arbok",
+		"id_pokemon" : 24,
+		"weight" : 65.0,
+		"height" : 3.5
+	},
+	{
+		"name_pokemon" : "golbat",
+		"id_pokemon" : 42,
+		"weight" : 55.0,
+		"height" : 1.6
+	},
+	{
+		"name_pokemon" : "golduck",
+		"id_pokemon" : 55,
+		"weight" : 76.6,
+		"height" : 1.7
+	},
+	{
+		"name_pokemon" : "arcanine",
+		"id_pokemon" : 59,
+		"weight" : 155.0,
+		"height" : 1.9
+	},
+	{
+		"name_pokemon" : "machamp",
+		"id_pokemon" : 68,
+		"weight" : 130.0,
+		"height" : 1.6
+	},
+	{
+		"name_pokemon" : "tentacruel",
+		"id_pokemon" : 73,
+		"weight" : 55.0,
+		"height" : 1.6
+	},
+	{
+		"name_pokemon" : "rapidash",
+		"id_pokemon" : 78,
+		"weight" : 95.0,
+		"height" : 1.7
+	},
+	{
+		"name_pokemon" : "slowbro",
+		"id_pokemon" : 80,
+		"weight" : 78.5,
+		"height" : 1.6
+	},
+	{
+		"name_pokemon" : "dodrio",
+		"id_pokemon" : 85,
+		"weight" : 85.2,
+		"height" : 1.8
+	},
+	{
+		"name_pokemon" : "dewgong",
+		"id_pokemon" : 87,
+		"weight" : 120.0,
+		"height" : 1.7
+	},
+	{
+		"name_pokemon" : "onix",
+		"id_pokemon" : 95,
+		"weight" : 210.0,
+		"height" : 8.8
+	},
+	{
+		"name_pokemon" : "hypno",
+		"id_pokemon" : 97,
+		"weight" : 75.6,
+		"height" : 1.6
+	},
+	{
+		"name_pokemon" : "exeggutor",
+		"id_pokemon" : 103,
+		"weight" : 120.0,
+		"height" : 2.0
+	},
+	{
+		"name_pokemon" : "rhydon",
+		"id_pokemon" : 112,
+		"weight" : 120.0,
+		"height" : 1.9
+	},
+	{
+		"name_pokemon" : "kangaskhan",
+		"id_pokemon" : 115,
+		"weight" : 80.0,
+		"height" : 2.2
+	},
+	{
+		"name_pokemon" : "gyarados",
+		"id_pokemon" : 130,
+		"weight" : 235.0,
+		"height" : 6.5
+	},
+	{
+		"name_pokemon" : "lapras",
+		"id_pokemon" : 131,
+		"weight" : 220.0,
+		"height" : 2.5
+	},
+	{
+		"name_pokemon" : "aerodactyl",
+		"id_pokemon" : 142,
+		"weight" : 59.0,
+		"height" : 1.8
+	},
+	{
+		"name_pokemon" : "snorlax",
+		"id_pokemon" : 143,
+		"weight" : 460.0,
+		"height" : 2.1
+	},
+	{
+		"name_pokemon" : "articuno",
+		"id_pokemon" : 144,
+		"weight" : 55.4,
+		"height" : 1.7
+	},
+	{
+		"name_pokemon" : "zapdos",
+		"id_pokemon" : 145,
+		"weight" : 52.6,
+		"height" : 1.6
+	},
+	{
+		"name_pokemon" : "moltres",
+		"id_pokemon" : 146,
+		"weight" : 60.0,
+		"height" : 2.0
+	},
+	{
+		"name_pokemon" : "dragonite",
+		"id_pokemon" : 149,
+		"weight" : 210.0,
+		"height" : 2.2
+	},
+	{
+		"name_pokemon" : "mewtwo",
+		"id_pokemon" : 150,
+		"weight" : 122.0,
+		"height" : 2.0
+	}
+]}

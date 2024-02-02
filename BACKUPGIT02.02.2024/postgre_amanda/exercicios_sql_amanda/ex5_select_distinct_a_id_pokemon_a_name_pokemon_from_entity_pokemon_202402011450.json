@@ -1,0 +1,67 @@
+{
+"select distinct a.id_pokemon, a.name_pokemon \r\nfrom entity_pokemon_full a, entity_pokemon_full e, entity_pokemon_full e2 \r\nwhere a.id_pokemon = e.evolves_from_id \r\nand e.id_pokemon in(select e2.evolves_from_id \r\n                    from entity_pokemon_full e2)": [
+	{
+		"id_pokemon" : 147,
+		"name_pokemon" : "dratini"
+	},
+	{
+		"id_pokemon" : 29,
+		"name_pokemon" : "nidoran-f"
+	},
+	{
+		"id_pokemon" : 69,
+		"name_pokemon" : "bellsprout"
+	},
+	{
+		"id_pokemon" : 7,
+		"name_pokemon" : "squirtle"
+	},
+	{
+		"id_pokemon" : 92,
+		"name_pokemon" : "gastly"
+	},
+	{
+		"id_pokemon" : 74,
+		"name_pokemon" : "geodude"
+	},
+	{
+		"id_pokemon" : 60,
+		"name_pokemon" : "poliwag"
+	},
+	{
+		"id_pokemon" : 1,
+		"name_pokemon" : "bulbasaur"
+	},
+	{
+		"id_pokemon" : 10,
+		"name_pokemon" : "caterpie"
+	},
+	{
+		"id_pokemon" : 63,
+		"name_pokemon" : "abra"
+	},
+	{
+		"id_pokemon" : 13,
+		"name_pokemon" : "weedle"
+	},
+	{
+		"id_pokemon" : 66,
+		"name_pokemon" : "machop"
+	},
+	{
+		"id_pokemon" : 4,
+		"name_pokemon" : "charmander"
+	},
+	{
+		"id_pokemon" : 43,
+		"name_pokemon" : "oddish"
+	},
+	{
+		"id_pokemon" : 32,
+		"name_pokemon" : "nidoran-m"
+	},
+	{
+		"id_pokemon" : 16,
+		"name_pokemon" : "pidgey"
+	}
+]}

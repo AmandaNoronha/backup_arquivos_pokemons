@@ -1,0 +1,6 @@
+{
+"select COUNT(id_pokemon) \r\nfrom type_pokemons tp \r\nwhere name_type = 'water'\r\nand id_pokemon \r\nnot in (select id_pokemon from type_pokemons tp \r\nwhere name_type <> 'water')\r\n": [
+	{
+		"count" : 18
+	}
+]}

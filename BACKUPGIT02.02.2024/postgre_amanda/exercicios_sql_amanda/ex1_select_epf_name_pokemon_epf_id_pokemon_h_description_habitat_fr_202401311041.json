@@ -1,0 +1,748 @@
+{
+"select epf.name_pokemon , epf.id_pokemon ,h.description_habitat  from entity_pokemon_full epf \r\ninner join habitat h \r\non h.description_habitat = 'sea' ": [
+	{
+		"name_pokemon" : "bulbasaur",
+		"id_pokemon" : 1,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "ivysaur",
+		"id_pokemon" : 2,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "venusaur",
+		"id_pokemon" : 3,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "charmander",
+		"id_pokemon" : 4,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "charmeleon",
+		"id_pokemon" : 5,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "charizard",
+		"id_pokemon" : 6,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "squirtle",
+		"id_pokemon" : 7,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "wartortle",
+		"id_pokemon" : 8,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "blastoise",
+		"id_pokemon" : 9,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "caterpie",
+		"id_pokemon" : 10,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "metapod",
+		"id_pokemon" : 11,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "butterfree",
+		"id_pokemon" : 12,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "weedle",
+		"id_pokemon" : 13,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "kakuna",
+		"id_pokemon" : 14,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "beedrill",
+		"id_pokemon" : 15,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "pidgey",
+		"id_pokemon" : 16,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "pidgeotto",
+		"id_pokemon" : 17,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "pidgeot",
+		"id_pokemon" : 18,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "rattata",
+		"id_pokemon" : 19,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "raticate",
+		"id_pokemon" : 20,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "spearow",
+		"id_pokemon" : 21,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "fearow",
+		"id_pokemon" : 22,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "ekans",
+		"id_pokemon" : 23,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "arbok",
+		"id_pokemon" : 24,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "pikachu",
+		"id_pokemon" : 25,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "raichu",
+		"id_pokemon" : 26,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "sandshrew",
+		"id_pokemon" : 27,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "sandslash",
+		"id_pokemon" : 28,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "nidoran-f",
+		"id_pokemon" : 29,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "nidorina",
+		"id_pokemon" : 30,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "nidoqueen",
+		"id_pokemon" : 31,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "nidoran-m",
+		"id_pokemon" : 32,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "nidorino",
+		"id_pokemon" : 33,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "nidoking",
+		"id_pokemon" : 34,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "clefairy",
+		"id_pokemon" : 35,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "clefable",
+		"id_pokemon" : 36,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "vulpix",
+		"id_pokemon" : 37,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "ninetales",
+		"id_pokemon" : 38,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "jigglypuff",
+		"id_pokemon" : 39,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "wigglytuff",
+		"id_pokemon" : 40,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "zubat",
+		"id_pokemon" : 41,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "golbat",
+		"id_pokemon" : 42,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "oddish",
+		"id_pokemon" : 43,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "gloom",
+		"id_pokemon" : 44,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "vileplume",
+		"id_pokemon" : 45,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "paras",
+		"id_pokemon" : 46,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "parasect",
+		"id_pokemon" : 47,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "venonat",
+		"id_pokemon" : 48,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "venomoth",
+		"id_pokemon" : 49,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "diglett",
+		"id_pokemon" : 50,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "dugtrio",
+		"id_pokemon" : 51,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "meowth",
+		"id_pokemon" : 52,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "persian",
+		"id_pokemon" : 53,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "psyduck",
+		"id_pokemon" : 54,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "golduck",
+		"id_pokemon" : 55,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "mankey",
+		"id_pokemon" : 56,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "primeape",
+		"id_pokemon" : 57,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "growlithe",
+		"id_pokemon" : 58,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "arcanine",
+		"id_pokemon" : 59,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "poliwag",
+		"id_pokemon" : 60,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "poliwhirl",
+		"id_pokemon" : 61,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "poliwrath",
+		"id_pokemon" : 62,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "abra",
+		"id_pokemon" : 63,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "kadabra",
+		"id_pokemon" : 64,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "alakazam",
+		"id_pokemon" : 65,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "machop",
+		"id_pokemon" : 66,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "machoke",
+		"id_pokemon" : 67,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "machamp",
+		"id_pokemon" : 68,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "bellsprout",
+		"id_pokemon" : 69,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "weepinbell",
+		"id_pokemon" : 70,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "victreebel",
+		"id_pokemon" : 71,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "tentacool",
+		"id_pokemon" : 72,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "tentacruel",
+		"id_pokemon" : 73,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "geodude",
+		"id_pokemon" : 74,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "graveler",
+		"id_pokemon" : 75,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "golem",
+		"id_pokemon" : 76,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "ponyta",
+		"id_pokemon" : 77,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "rapidash",
+		"id_pokemon" : 78,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "slowpoke",
+		"id_pokemon" : 79,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "slowbro",
+		"id_pokemon" : 80,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "magnemite",
+		"id_pokemon" : 81,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "magneton",
+		"id_pokemon" : 82,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "farfetchd",
+		"id_pokemon" : 83,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "doduo",
+		"id_pokemon" : 84,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "dodrio",
+		"id_pokemon" : 85,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "seel",
+		"id_pokemon" : 86,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "dewgong",
+		"id_pokemon" : 87,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "grimer",
+		"id_pokemon" : 88,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "muk",
+		"id_pokemon" : 89,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "shellder",
+		"id_pokemon" : 90,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "cloyster",
+		"id_pokemon" : 91,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "gastly",
+		"id_pokemon" : 92,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "haunter",
+		"id_pokemon" : 93,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "gengar",
+		"id_pokemon" : 94,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "onix",
+		"id_pokemon" : 95,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "drowzee",
+		"id_pokemon" : 96,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "hypno",
+		"id_pokemon" : 97,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "krabby",
+		"id_pokemon" : 98,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "kingler",
+		"id_pokemon" : 99,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "voltorb",
+		"id_pokemon" : 100,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "electrode",
+		"id_pokemon" : 101,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "exeggcute",
+		"id_pokemon" : 102,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "exeggutor",
+		"id_pokemon" : 103,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "cubone",
+		"id_pokemon" : 104,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "marowak",
+		"id_pokemon" : 105,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "hitmonlee",
+		"id_pokemon" : 106,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "hitmonchan",
+		"id_pokemon" : 107,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "lickitung",
+		"id_pokemon" : 108,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "koffing",
+		"id_pokemon" : 109,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "weezing",
+		"id_pokemon" : 110,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "rhyhorn",
+		"id_pokemon" : 111,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "rhydon",
+		"id_pokemon" : 112,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "chansey",
+		"id_pokemon" : 113,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "tangela",
+		"id_pokemon" : 114,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "kangaskhan",
+		"id_pokemon" : 115,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "horsea",
+		"id_pokemon" : 116,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "seadra",
+		"id_pokemon" : 117,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "goldeen",
+		"id_pokemon" : 118,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "seaking",
+		"id_pokemon" : 119,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "staryu",
+		"id_pokemon" : 120,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "starmie",
+		"id_pokemon" : 121,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "mr-mime",
+		"id_pokemon" : 122,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "scyther",
+		"id_pokemon" : 123,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "jynx",
+		"id_pokemon" : 124,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "electabuzz",
+		"id_pokemon" : 125,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "magmar",
+		"id_pokemon" : 126,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "pinsir",
+		"id_pokemon" : 127,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "tauros",
+		"id_pokemon" : 128,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "magikarp",
+		"id_pokemon" : 129,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "gyarados",
+		"id_pokemon" : 130,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "lapras",
+		"id_pokemon" : 131,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "ditto",
+		"id_pokemon" : 132,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "eevee",
+		"id_pokemon" : 133,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "vaporeon",
+		"id_pokemon" : 134,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "jolteon",
+		"id_pokemon" : 135,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "flareon",
+		"id_pokemon" : 136,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "porygon",
+		"id_pokemon" : 137,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "omanyte",
+		"id_pokemon" : 138,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "omastar",
+		"id_pokemon" : 139,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "kabuto",
+		"id_pokemon" : 140,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "kabutops",
+		"id_pokemon" : 141,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "aerodactyl",
+		"id_pokemon" : 142,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "snorlax",
+		"id_pokemon" : 143,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "articuno",
+		"id_pokemon" : 144,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "zapdos",
+		"id_pokemon" : 145,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "moltres",
+		"id_pokemon" : 146,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "dratini",
+		"id_pokemon" : 147,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "dragonair",
+		"id_pokemon" : 148,
+		"description_habitat" : "sea"
+	},
+	{
+		"name_pokemon" : "dragonite",
+		"id_pokemon" : 149,
+		"description_habitat" : "sea"
+	}
+]}
